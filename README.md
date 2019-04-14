@@ -68,7 +68,7 @@ This is a web spider for getting all the subcategory's hyperlink from a wikipeid
 
 #### 1.1 Download the Program
 ```bash
-git clone ...
+git clone git@github.com:Cqyhid/Web-Crawler.git
 ```
 
 
